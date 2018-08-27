@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wor",
+				"worddict2"
+			],
+			[
+				"wo",
+				"worddict2"
+			],
+			[
+				"word",
+				"worddict"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"ima",
+				"image_req"
+			],
+			[
+				"c",
+				"current_path"
+			],
+			[
+				"sel",
+				"selenium_soup"
+			],
+			[
+				"m",
+				"movie"
+			],
+			[
+				"movi",
+				"movie"
+			],
+			[
+				"mo",
+				"movies"
+			],
+			[
+				"b",
+				"BeautifulSoup"
+			],
+			[
+				"get",
+				"get_url"
+			],
+			[
+				"ye",
+				"year_s"
+			],
+			[
+				"max",
+				"max_page"
+			],
+			[
+				"li",
+				"limit_id"
+			],
+			[
+				"min",
+				"min_page"
+			],
+			[
+				"add",
+				"add_argument"
+			],
+			[
+				"ad",
+				"add_argument"
+			],
+			[
+				"wh",
+				"which"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"n",
+				"nAddress"
+			],
+			[
+				"re",
+				"restaurant"
+			],
+			[
+				"s",
+				"strip"
+			],
+			[
+				"p",
+				"phone_number"
+			],
+			[
+				"resta",
+				"restaurant"
+			],
+			[
+				"su",
+				"subtitle"
+			],
+			[
+				"srt",
+				"srtText"
+			],
+			[
+				"eng",
+				"english_subtitle"
+			],
+			[
+				"en",
+				"english_subtiztle"
+			],
+			[
+				"mes",
+				"message_user"
+			],
+			[
+				"Di",
+				"DictReader"
+			],
+			[
+				"tem",
+				"tempfile"
+			],
+			[
+				"fie",
+				"fieldnames"
+			],
+			[
+				"field",
+				"fieldnames"
+			],
+			[
+				"to",
+				"to_list"
+			],
+			[
+				"par",
+				"part_2"
+			],
+			[
+				"pa",
+				"part_1"
+			],
+			[
+				"email",
+				"email_conn"
+			],
+			[
+				"MI",
+				"MIMEText"
+			],
+			[
+				"smt",
+				"smtplib"
+			],
+			[
+				"ren",
+				"render_message"
+			],
+			[
+				"file",
+				"file_html"
+			],
+			[
+				"ge",
+				"get_template"
+			],
+			[
+				"emi",
+				"email_message"
+			],
+			[
+				"user_",
+				"user_email"
+			],
+			[
+				"user",
+				"user_email"
+			],
+			[
+				"d",
+				"division"
+			],
+			[
+				"wh_",
+				"wh_num_1"
+			],
+			[
+				"fil",
+				"file_item_path"
+			],
+			[
+				"fi",
+				"file_item_path"
+			],
+			[
+				"unk",
+				"unknown_user_id"
+			],
+			[
+				"un",
+				"unknown_user_id"
+			],
+			[
+				"usr_",
+				"unknown_user_mail"
+			],
+			[
+				"unkn",
+				"unknown_user_id"
+			],
+			[
+				"temp",
+				"tempfile"
+			],
+			[
+				"unkw",
+				"unknown_mail"
+			],
+			[
+				"f",
+				"fieldnames"
+			],
+			[
+				"Dic",
+				"DictWriter"
+			],
+			[
+				"D",
+				"DictWriter"
+			],
+			[
+				"read",
+				"reader_list"
+			],
+			[
+				"di",
+				"display3"
+			],
+			[
+				"conne",
+				"connect_server"
+			],
+			[
+				"co",
+				"connect_server"
+			],
+			[
+				"inpu",
+				"input_oprt"
+			],
+			[
+				"inp",
+				"input_oprt"
+			],
+			[
+				"in",
+				"input_oprt"
+			],
+			[
+				"htm",
+				"html_mesg"
+			],
+			[
+				"insta",
+				"instagranLink"
+			],
+			[
+				"inst",
+				"instagramUserName"
+			],
+			[
+				"MIME",
+				"MIMEText"
+			],
+			[
+				"write",
+				"writerow"
+			],
+			[
+				"csv",
+				"csvfile"
+			],
+			[
+				"ch",
+				"character"
+			],
+			[
+				"get_",
+				"get_path"
+			],
+			[
+				"get_tem",
+				"get_template_path"
+			],
+			[
+				"for",
+				"formating_subject"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"fro",
+				"from_mail"
+			],
+			[
+				"chi",
+				"child_or_else"
+			],
+			[
+				"def",
+				"default_amounts"
+			],
+			[
+				"de",
+				"default_names"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"dog = Animal()",
+			"python class.py",
+			"python",
+			"dog = Animal()",
+			"dog.name"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lenovo-PC/Desktop/django additional tutorial/crypte.txt",
+		"/C/Users/Lenovo-PC/Desktop/003 Django-Python-Full-Stack-Web-Developer/Django-Python-Full-Stack-Web-Devloper-master/jQuery/Part1_Basic_jQuery.js",
+		"/C/Users/Lenovo-PC/Desktop/django/levelone/project/project1/project1/urls.py",
+		"/C/Users/Lenovo-PC/Desktop/django/leveltwo/project/project1/new_app/models.py",
+		"/C/Users/Lenovo-PC/Desktop/003 Django-Python-Full-Stack-Web-Developer/Django-Python-Full-Stack-Web-Devloper-master/JavaScript_Level_One/Part4_Operators.js",
+		"/C/Users/Lenovo-PC/Desktop/003 Django-Python-Full-Stack-Web-Developer/Django-Python-Full-Stack-Web-Devloper-master/Bootstrap/Part4_Grids.html",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/hacking/facebook.html",
+		"/C/Users/Lenovo-PC/Desktop/web dev/bootstrap/buttons.html",
+		"/C/Users/Lenovo-PC/Desktop/count word/count.py",
+		"/C/Users/Lenovo-PC/Downloads/[FreeTutorials.Us] Udemy - the-python-mega-course/08 Application 1 Building an Interactive Dictionary/076 data.json",
+		"/C/Users/Lenovo-PC/Desktop/blog/templates/about.html",
+		"/C/Users/Lenovo-PC/Desktop/python/words/words.py",
+		"/C/Program Files (x86)/VideoLAN/VLC/lua/extensions/trans.lua",
+		"/C/Users/Lenovo-PC/Desktop/blog/blog.py",
+		"/C/Users/Lenovo-PC/Downloads/python/3. Flask , ORM ve SqlAlchemy ile Todo App/1.1 Flask Todo App.zip/templates/index.html",
+		"/C/Users/Lenovo-PC/Downloads/[FreeTutorials.Us] Udemy - python-and-django-full-stack-web-developer-bootcamp/01 Course Introduction/001 Introduction-subtitle-en.vtt",
+		"/C/Users/Lenovo-PC/Documents/GitHub/vlc-trans-lua/trans.lua",
+		"/C/Users/Lenovo-PC/Downloads/004 Course Set-Up and Installation-subtitle-en [SubtitleTools.com].srt",
+		"/C/Users/Lenovo-PC/Downloads/template/mstudio.com/Alex Motzenbecker, Creative Developer.htm",
+		"/C/Users/Lenovo-PC/Desktop/test.py",
+		"/C/Users/Lenovo-PC/Downloads/pandas-intro-basic-methods-indexing-slicing-filtering-list-comprehension-concatenating-transform-data.py",
+		"/C/Users/Lenovo-PC/Downloads/numpy-basics-operations-indexing-slicing-shape-manipulation-stacking-convert-and-copy.py",
+		"/C/Users/Lenovo-PC/Documents/GitHub/30-Days-of-Python/Day 25/js_scrape.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-25/test.py",
+		"/C/Users/Lenovo-PC/Desktop/python/datetime/datetime.py",
+		"/C/Users/Lenovo-PC/Desktop/python/datetime/credit.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-24/scrape.py",
+		"/C/Users/Lenovo-PC/Downloads/deeplearning [FreeTutorials.Us]/deeplearning/30 Classification Template/173 Logistic Regression Implementation - Step 1-tr.srt",
+		"/C/Users/Lenovo-PC/Downloads/deeplearning [FreeTutorials.Us]/deeplearning/01 Welcome to the course/001 What is Deep Learning-en.srt",
+		"/C/Users/Lenovo-PC/Downloads/deeplearning [FreeTutorials.Us]/deeplearning/01 Welcome to the course/001 What is Deep Learning-tr.srt",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-23/yelp.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/utils/templates.py",
+		"/C/Users/Lenovo-PC/Documents/GitHub/30-Days-of-Python/Day 24/scrape/code/scrape.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-23/Restaurants-NewYork.txt",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-19/__main__.py",
+		"/C/Users/Lenovo-PC/Documents/GitHub/30-Days-of-Python/Day 21 - 23/scrape/code/scape.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-23/restaurant-NewYork.txt",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-23/test.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-23/restaurant-New York,NYC",
+		"/C/Users/Lenovo-PC/Desktop/youtube subtitle translater/export_text.py",
+		"/C/Users/Lenovo-PC/Desktop/youtube subtitle translater/export.py",
+		"/C/Users/Lenovo-PC/Desktop/youtube subtitle translater/export_text2.py",
+		"/C/Users/Lenovo-PC/Desktop/youtube subtitle translater/translater.py",
+		"/C/Users/Lenovo-PC/Desktop/youtube subtitle translater/english.txt",
+		"/C/Users/Lenovo-PC/Desktop/youtube subtitle translater/translater",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-20/test/data.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/data.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/data.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/__main__.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-15/test.py",
+		"/C/Users/Lenovo-PC/Documents/GitHub/30-Days-of-Python/README.md",
+		"/C/Users/Lenovo-PC/Documents/GitHub/30-Days-of-Python/PythonCheatSheet.md",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-20/test/__init__.py",
+		"/C/Users/Lenovo-PC/Documents/GitHub/30-Days-of-Python/Day 20/hungry/__main__.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-20/test/data.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-20/test/__main__.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-20/test/templates/email_message.txt",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-20/test/templates/email_message.html",
+		"/C/Users/Lenovo-PC/Desktop/test2.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-19/data_class.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/data.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/templates/email_message.html",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/templates/email_message.txt",
+		"/C/Users/Lenovo-PC/Desktop/python/contextManager.py",
+		"/C/Users/Lenovo-PC/Desktop/python/generator.py",
+		"/C/Users/Lenovo-PC/Desktop/python/itertoolsGame.py",
+		"/C/Users/Lenovo-PC/Desktop/python/test.py",
+		"/C/Users/Lenovo-PC/Desktop/python/test3.py",
+		"/C/Users/Lenovo-PC/Desktop/python/decorator.py",
+		"/C/Users/Lenovo-PC/Desktop/python codes/test/get/get.py",
+		"/C/Users/Lenovo-PC/Desktop/python codes/test/main.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-19/utils/templates.py",
+		"/C/Users/Lenovo-PC/Desktop/python codes/test/main.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/data_template.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-18/test/templates.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-19/utils/__init__.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-19/data_manager.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-19/data.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-19/__init__.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/editcsv.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/content.csv",
+		"/C/Users/Lenovo-PC/Desktop/file mode.txt",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/content_new.csv",
+		"/C/Users/Lenovo-PC/Downloads/Telegram Desktop/content.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/data/data.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/data/data.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/data/temp.csv",
+		"/C/Users/Lenovo-PC/AppData/Local/Programs/Python/Python37-32/lib/csv.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/hacking/messages.py",
+		"/C/Users/Lenovo-PC/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/hacking/instagram.html",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/hacking/facebookMessage.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/hacking/instagramMessage.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-10/custom.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/instagram.html",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/facebook.html",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-11/html.html",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/test/test.py",
+		"/C/Users/Lenovo-PC/Desktop/content.csv",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-16/test.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-15/dict.py",
+		"/C/Users/Lenovo-PC/Desktop/python/game/test.py",
+		"/C/Users/Lenovo-PC/Desktop/python/example4.csv",
+		"/C/Users/Lenovo-PC/Desktop/python/words/game.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-14/rw_csv.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-14/test.py",
+		"/C/Users/Lenovo-PC/Desktop/python/game/game.py",
+		"/C/Program Files/Notepad++/notepad++.exe",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-13/templates.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-13/test/test.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-13/html_format_email.py",
+		"/C/Users/Lenovo-PC/Desktop/30-days-python/day-13/message_users.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 13/templates.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 13/test/test.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 13/html_format_email.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 13/custom.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 13/message_users.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 12/day 12 start.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 12/day 12 end.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 11/gmail.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 11/facebookMail.py",
+		"/C/Users/Lenovo-PC/Desktop/html.html",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 10/custom.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 9/test/py_day_test.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 9/test/py_day_mod/make_messages.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 9/test/testing123.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 9/test/py_day_mod/__init__.py",
+		"/C/Users/Lenovo-PC/Desktop/30 days python/day 9/day 9 - start .py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"->",
+			"Stone Park Cafe",
+			"page",
+			"print",
+			"options",
+			"iteritems",
+			"output_file"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
